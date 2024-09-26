@@ -1,0 +1,9 @@
+setuptools
+streamlit
+folium
+pandas
+geopandas
+leafmap
+salem
+requests
+datetime
